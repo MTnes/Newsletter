@@ -1,0 +1,25 @@
+body {
+  overflow-x: hidden; }
+
+.navbar {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+#page-header {
+    height: 250px;
+    background: url("../img/image1.jpg");
+    background-position: 80 -400px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-bottom: 50px; }
+
+.dark-overlay {
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 250px;
+}
